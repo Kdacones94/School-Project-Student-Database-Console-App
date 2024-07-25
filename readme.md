@@ -1,4 +1,6 @@
-# University Student Database - Console Application 
+# University Student Database - Console Logic 
+
+## C200: Object Oriented Programming in C++ 
 
 ![Current Version](https://img.shields.io/badge/version-v0.1-blue)
 ![GitHub contributors](https://img.shields.io/github/contributors/kdacones94/readme.md)
@@ -6,7 +8,7 @@
 
 ## Introduction: 
 
-This is a console application for my Scripting & Programming final performance assessment. This project is supposed to demonstrate object-oriented programming skills in C++ based on a given scenario. 
+This is a console application for my Scripting & Programming final performance assessment. This project is supposed to demonstrate object-oriented programming skills in C++ based on a given scenario
 
 ## Project Scenario: 
 
